@@ -29,8 +29,11 @@
 ## ✅ Itens desenvolvidos
 
 ✅ Fazer login como standard_user
+
 ✅ Adicionar 3 produtos ao carrinho
+
 ✅ Finalizar a compra
+
 ✅ Validar a mensagem de sucesso final
 
 
